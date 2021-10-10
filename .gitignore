@@ -7,3 +7,5 @@ backend/venv
 backend/instagram_posts/model
 backend/instagram_posts/anna_bark
 frontend/node_modules
+frontend/dist
+
