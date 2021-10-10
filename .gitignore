@@ -1,0 +1,9 @@
+__pycache__
+backend/env
+backend/venv
+.idea
+.DS_Store
+.git
+backend/instagram_posts/model
+backend/instagram_posts/anna_bark
+frontend/node_modules
