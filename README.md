@@ -1,6 +1,8 @@
 # uhobby
 Умный поиск хобби.
 
+https://www.ykvlv.ai/uhobby
+
 ## Сборка React
 ```
 cd frontend && npm start
