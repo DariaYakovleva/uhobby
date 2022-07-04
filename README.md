@@ -1,14 +1,14 @@
 # uhobby
-Умный поиск хобби.
+Smart hobby search
 
 https://www.ykvlv.ai/uhobby
 
-## Сборка React
+## React frontend
 ```
 cd frontend && npm start
 ```
 
-## Запуск fastAPI
+## fastAPI backend
 ```
 cd backend && docker build -t uhobby . && docker run uhobby -p 90:90
 ```
